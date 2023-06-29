@@ -19,7 +19,7 @@
 
 .links ul{
     margin: 0;
-    padding:0%;
+    padding:1em;
     left: 50em;
     
     display: flex;
