@@ -12,9 +12,10 @@
     padding-left: 1rem;
     padding-top: 1rem;
 }
-.links{
+.links ul{
     position: relative;
     display: inline-block;
+    
     right: 20rem;
 }
 
