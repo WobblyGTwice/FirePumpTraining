@@ -19,8 +19,7 @@
 
 .links ul{
     margin: 0;
-    padding:1em;
-    left: 50rem;
+    padding:0%;
     
     display: flex;
 }
@@ -104,4 +103,56 @@ tr:nth-last-of-type(2n) {
      font-weight: 700;
      text-transform: capitalize;
     }   
+}
+
+.navLinks{
+    position: relative;
+    left: 72rem;
+}
+
+.wrapper{
+    width: 80%;
+    margin: auto;
+    border: solid #111010;
+    
+}
+
+.mainText{
+    position: relative;
+    padding-left: 1rem;
+    line-height: 2rem;
+}
+.wrapperMain img{
+    position: relative;
+    width: 100%;
+    margin: auto;
+   
+}
+
+.aboutWrapper{
+    position: relative;
+    width: 100%;
+    margin: auto;
+}
+.aboutWrapper img{
+    width: 100%;
+    position: relative;
+    margin: auto;
+}
+
+.contactStyle{
+    position: relative;
+    width: 80%;
+    margin: auto;
+}
+
+.form{
+    position: relative;
+    width: 100%;
+    margin: auto;
+    line-height: 3rem;
+}
+
+.form h1{
+    text-decoration: underline;
 }
